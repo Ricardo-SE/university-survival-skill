@@ -77,3 +77,7 @@
 ## 许可
 
 非商业自定义许可（见 [LICENSE](LICENSE)）：个人学习与非营利分享完全免费，禁止未经授权的商业化变现。商业授权请联系项目作者。
+
+
+## 技能MCP
+[个人简历制作](https://github.com/Zhao-yuanpu/college-student-resume-website-skill)
