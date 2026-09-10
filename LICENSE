@@ -1,21 +1,26 @@
-MIT License
+Copyright (c) 2026 Ricardo-SE. All rights reserved.
 
-Copyright (c) 2026 Ricardo-SE
+# 自定义使用许可（Non-Commercial License）
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本仓库内容（含 SKILL.md、AGENTS.md、references/ 下全部文件）受以下条款约束。**使用即表示你接受本协议。**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 允许
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **个人学习与非商业使用**：你可以免费复制、修改本仓库内容用于个人学习、自我规划，以及非营利的分享（需注明出处与本声明）。
+2. **反馈与贡献**：欢迎通过 Issue 或仓库内联系方式提交反馈与经验补充，贡献内容的著作权归贡献者所有，授予本仓库非商业使用许可。
+
+## 禁止
+
+1. **商业使用**：未经作者事先书面授权，禁止将本仓库全部或部分内容用于任何直接或间接的商业用途，包括但不限于：售卖、付费课程/咨询、引流变现、嵌入商业产品或服务、二次分发收费。
+2. **移除声明**：禁止移除或篡改本文件及内容中的来源与许可声明。
+3. **冒充来源**：禁止以自己的名义发布、署名或暗示本仓库内容为其原创。
+
+## 免责
+
+本仓库内容为个人经验汇编与公开信息整理，"按现状"提供，不构成任何教育、职业或投资建议；不承诺任何升学、保研、录取、offer 或收入结果。详见 DISCLAIMER.md。作者不对使用本内容产生的任何后果承担责任。
+
+## 授权与联系
+
+商业授权、合作洽谈：仓库内联系方式（微信号 ahydrogenz）或 GitHub Issue。
+
+> 本协议自 2026-09-08 起生效，作者保留最终解释权。此前以 MIT 许可发布的历史版本，其已获授权的使用者不受影响，但新获取的内容以本协议为准。
